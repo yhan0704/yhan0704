@@ -18,10 +18,10 @@ Skills:<br /><br />
   
 <p>
  <a href="https://www.linkedin.com/in/yhan1205/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
   </a> &nbsp;
 </p>
-https://www.linkedin.com/in/yhan1205/
+
 
 <!--
 **yhan0704/yhan0704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
