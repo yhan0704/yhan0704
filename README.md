@@ -7,13 +7,13 @@ My focus is always on building the best, reliable, and with good User Experience
 
 Skills:
   *React/Redux/Material UI
-  *Axios, AJAX
-  *CSS/SCSS
-  *HTML5
-  *AWS
-  *Git
-  *Node.js/Express.js
-  *MongoDB/MySQL
+  *Axios, AJAX
+  *CSS/SCSS
+  *HTML5
+  *AWS
+  *Git
+  *Node.js/Express.js
+  *MongoDB/MySQL
   *AUT(Selenium, testNg, Cucumber)
   
 https://www.linkedin.com/in/yhan1205/
