@@ -10,9 +10,7 @@ My focus is always on building the best, reliable, and with good User Experience
 
    -React/Redux/Material UI<br /><br />
    -Axios, AJAX<br /><br />
-   -Axios, AJAX<br /><br />
-   -CSS/SCSS<br /><br />
-   -HTML5<br /><br />
+   -HTML5, CSS/SCSS<br /><br />
    -AWS<br /><br />
    -Git<br /><br />
    -Node.js/Express.js<br /><br />
