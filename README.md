@@ -16,11 +16,9 @@ Skills:<br />
   *MongoDB/MySQL<br /><br />
   *AUT(Selenium, testNg, Cucumber)<br />
   
-  
-  <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
 <p>
  <a href="https://www.linkedin.com/in/yhan1205/" rel="nofollow noreferrer">
-    <img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a> &nbsp;
 </p>
 
