@@ -5,7 +5,7 @@ I am a full-stack developer specialized in JavaScript frameworks.
 
 My focus is always on building the best, reliable, and with good User Experience websites.
 
-Skills:
+Skills:<br /><br />
   *React/Redux/Material UI<br />
   *Axios, AJAX<br /><br />
   *CSS/SCSS<br /><br />
@@ -16,10 +16,11 @@ Skills:
   *MongoDB/MySQL<br /><br />
   *AUT(Selenium, testNg, Cucumber)<br />
   
- <a href="https://www.linkedin.com/in/yhan1205/">
-   <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
-</a>
-  
+<p>
+ <a href="https://www.linkedin.com/in/yhan1205/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp;
+</p>
 https://www.linkedin.com/in/yhan1205/
 
 <!--
