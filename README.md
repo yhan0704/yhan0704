@@ -6,15 +6,16 @@ I am a full-stack developer specialized in JavaScript frameworks.
 My focus is always on building the best, reliable, and with good User Experience websites.
 
 Skills:<br />
-  *React/Redux/Material UI<br />
-  *Axios, AJAX<br /><br />
-  *CSS/SCSS<br /><br />
-  *HTML5<br /><br />
-  *AWS<br /><br />
-  *Git<br /><br />
-  *Node.js/Express.js<br /><br />
-  *MongoDB/MySQL<br /><br />
-  *AUT(Selenium, testNg, Cucumber)<br />
+
+  -React/Redux/Material UI<br /><br />
+  -Axios, AJAX<br /><br />
+  -CSS/SCSS<br /><br />
+  -HTML5<br /><br />
+  -AWS<br /><br />
+  -Git<br /><br />
+  -Node.js/Express.js<br /><br />
+  -MongoDB/MySQL<br /><br />
+  -AUT(Selenium, testNg, Cucumber)<br />
   
   <br />
   <br />
