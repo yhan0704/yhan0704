@@ -12,10 +12,10 @@ My focus is always on building the best, reliable, and with good User Experience
    -GraphQL<br /><br />
    -Axios, AJAX<br /><br />
    -HTML5, CSS/SCSS, Material UI<br /><br />
-   -AWS<br /><br />
-   -Git<br /><br />
    -Node.js/Express.js<br /><br />
    -MongoDB/MySQL<br /><br />
+   -Git<br /><br />
+   -AWS<br /><br />
    -AUT(Selenium, testNg, Cucumber)<br />
    
   <br />
