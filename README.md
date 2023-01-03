@@ -16,7 +16,6 @@ My focus is always on building the best, reliable, and with good User Experience
    -MongoDB/MySQL<br /><br />
    -Git<br /><br />
    -AWS<br /><br />
-   -AUT(Selenium, testNg, Cucumber)<br />
    
   <br />
 <p>
