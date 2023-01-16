@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Welcome to My Git.
-I am a full-stack developer specialized in JavaScript frameworks. 
+Welcome!.
+I am a front-end(React) developer. 
 
 My focus is always on building the best, reliable, and with good User Experience websites.
 <br /><br />
@@ -10,11 +10,10 @@ My focus is always on building the best, reliable, and with good User Experience
 
    -React/Redux/TypeScript<br /><br />
    -GraphQL<br /><br />
-   -Axios, AJAX<br /><br />
    -HTML5, CSS/SCSS, Material UI<br /><br />
-   -Node.js/Express.js<br /><br />
-   -MongoDB/MySQL<br /><br />
+   -MySQL<br /><br />
    -Git<br /><br />
+   -Flutter<br /><br />
    -AWS<br /><br />
    
   <br />
