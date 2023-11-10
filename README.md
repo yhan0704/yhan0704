@@ -11,10 +11,8 @@ My focus is always on building the best, reliable, and with good User Experience
    -React/Redux/TypeScript<br /><br />
    -GraphQL<br /><br />
    -HTML5, CSS/SCSS, Material UI<br /><br />
-   -MySQL<br /><br />
    -Git<br /><br />
    -Flutter<br /><br />
-   -AWS<br /><br />
    
   <br />
 <p>
