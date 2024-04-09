@@ -8,11 +8,11 @@ My focus is always on building the best, reliable, and with good User Experience
 
 ## Skills:<br />
 
-   -React/TypeScript<br /><br />
+   -React/Remix/TypeScript<br /><br />
    -GraphQL<br /><br />
    -HTML5, CSS/SCSS, Material UI<br /><br />
    -Git<br /><br />
-   -Flutter<br /><br />
+
    
   <br />
 <p>
