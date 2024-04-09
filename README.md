@@ -8,7 +8,7 @@ My focus is always on building the best, reliable, and with good User Experience
 
 ## Skills:<br />
 
-   -React/Redux/TypeScript<br /><br />
+   -React/TypeScript<br /><br />
    -GraphQL<br /><br />
    -HTML5, CSS/SCSS, Material UI<br /><br />
    -Git<br /><br />
