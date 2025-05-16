@@ -12,7 +12,6 @@ My focus is always on building the best, reliable, and with good User Experience
    -GraphQL<br /><br />
    -HTML5, CSS/SCSS, Material UI<br /><br />
    -Git<br /><br />
-   -Learning playwright(e2e)<br /><br />
 
    
   <br />
